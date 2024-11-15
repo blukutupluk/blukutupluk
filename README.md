@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZoraaCode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=github_dark" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=blukutupluk&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=github_dark" width="300"/>
  </p>
 
  <p align="center">
