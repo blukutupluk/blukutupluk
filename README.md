@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Spotify Playing 🎧
+
 <!-- [![Spotify](https://spotify-now-playing-dusky.vercel.app/api/spotify-playing)](https://open.spotify.com/artist/2a9vDCEondy3O4h3Pz0V9p?si=plmhDfyqS0C1Q_JXto9FRg) -->
 
 [<img src="https://readme-spotify-status.vikumkbv.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/artist/2a9vDCEondy3O4h3Pz0V9p?si=plmhDfyqS0C1Q_JXto9FRg)
