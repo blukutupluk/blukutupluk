@@ -1,45 +1,33 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+blukutupluk....;Nice+to+meet+you!&center=true&size=30">
+  <a href="https://github.com/blukutupluk/blukutupluk">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=✨+Welcome+to+blukutupluk!+✨;🚀+Elegant+Code+%26+Modern+Design+🚀;⚡+Innovate+%7C+Create+%7C+Elevate+⚡" alt="Animated Typing" />
   </a>
 </h1>
 
-<h3 align="center">I'm a passionate developer from Indonesia</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/blukutupluk">
-    <img src="https://komarev.com/ghpvc/?username=blukutupluk&style=flat-square&color=blue" alt=""/>
+  <a href="https://github.com/blukutupluk?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-%F0%9F%92%BB-blue?style=for-the-badge&logo=github" alt="Projects">
   </a>
-  <a href="https://github.com/blukutupluk?tab=followers">
-    <img src="https://img.shields.io/github/followers/blukutupluk?logo=github&style=flat-square&color=green" alt="GitHub followers"/>
+  <a href="https://github.com/blukutupluk?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-%E2%AD%90-yellow?style=for-the-badge&logo=github" alt="Stars">
+  </a>
+  <a href="https://github.com/blukutupluk/blukutupluk/issues">
+    <img src="https://img.shields.io/badge/Issues-%F0%9F%93%9D-red?style=for-the-badge&logo=github" alt="Issues">
   </a>
 </p>
 
----
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blukutupluk&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blukutupluk&layout=compact&theme=radical&langs_count=6)
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=blukutupluk&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blukutupluk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🛠️ Languages and Tools :
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,react,py,java,vscode" />
-  </a>
-</p>
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+### 🌟 **Featured Projects**
+```diff
++ [Project Alpha](https://github.com/blukutupluk/project-alpha) - Modern UI framework 
+! [Project Beta](https://github.com/blukutupluk/project-beta) - AI-powered toolkit
+# [Project Gamma](https://github.com/blukutupluk/project-gamma) - Data visualization
