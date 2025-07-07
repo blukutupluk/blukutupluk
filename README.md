@@ -1,33 +1,32 @@
-<h1 align="center">
-  <a href="https://github.com/blukutupluk/blukutupluk">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=✨+Welcome+to+blukutupluk!+✨;🚀+Elegant+Code+%26+Modern+Design+🚀;⚡+Innovate+%7C+Create+%7C+Elevate+⚡" alt="Animated Typing" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm blukutupluk</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://github.com/blukutupluk?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-%F0%9F%92%BB-blue?style=for-the-badge&logo=github" alt="Projects">
-  </a>
-  <a href="https://github.com/blukutupluk?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-%E2%AD%90-yellow?style=for-the-badge&logo=github" alt="Stars">
-  </a>
-  <a href="https://github.com/blukutupluk/blukutupluk/issues">
-    <img src="https://img.shields.io/badge/Issues-%F0%9F%93%9D-red?style=for-the-badge&logo=github" alt="Issues">
+  <a href="https://github.com/blukutupluk">
+    <img src="https://komarev.com/ghpvc/?username=blukutupluk&label=Profile%20views&color=0e75b6&style=flat" alt="blukutupluk" />
   </a>
 </p>
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blukutupluk&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blukutupluk&layout=compact&theme=radical&langs_count=6)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=blukutupluk" alt="blukutupluk" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blukutupluk&show_icons=true&locale=en" alt="blukutupluk" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blukutupluk&" alt="blukutupluk" />
+</p>
 
-### 🌟 **Featured Projects**
-```diff
-+ [Project Alpha](https://github.com/blukutupluk/project-alpha) - Modern UI framework 
-! [Project Beta](https://github.com/blukutupluk/project-beta) - AI-powered toolkit
-# [Project Gamma](https://github.com/blukutupluk/project-gamma) - Data visualization
+<!-- Animasi bisa menggunakan GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200">
+</p>
+
+<!-- Atau SVG animasi, misalnya dari https://readme-typing-svg.herokuapp.com/ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+great+day!&center=true&width=500&height=50">
+</p>
