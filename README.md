@@ -1,1 +1,99 @@
-<h1 align="center">Hi 👋, I'm blukutupluk</h1><h3 align="center">A passionate frontend developer from Indonesia</h3><p align="center"><a href="https://github.com/blukutupluk"><img src="https://komarev.com/ghpvc/?username=blukutupluk&label=Profile%20views&color=0e75b6&style=flat" alt="blukutupluk" /></a></p><p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Let's+build+something+amazing!&center=true&width=500&height=50&font=Inter&size=24"></p>🌐 About MeHalo! Saya blukutupluk, seorang pengembang frontend yang bersemangat dengan kecintaan pada pembuatan antarmuka pengguna yang intuitif dan menarik. Saya suka mengubah ide-ide kompleks menjadi pengalaman web yang mulus dan responsif. Berasal dari Indonesia, saya selalu mencari tantangan baru dan peluang untuk belajar serta berkolaborasi.🔭 Saya sedang mengerjakan proyek-proyek menarik yang berfokus pada pengembangan web modern.🌱 Saya saat ini sedang belajar teknologi frontend terbaru dan praktik terbaik.👯 Saya ingin berkolaborasi dalam proyek open-source atau aplikasi web inovatif.💬 Tanyakan kepada saya tentang React, JavaScript, CSS, atau hal-hal terkait frontend lainnya!📫 Cara menghubungi saya: [email Anda] atau melalui profil LinkedIn saya.⚡ Fakta menarik: Saya suka menjelajahi tren desain UI/UX terbaru.🛠️ My Tech StackBerikut adalah beberapa teknologi dan alat yang sering saya gunakan:Frontend Development:<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>Tools & Others:<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a></p>📊 GitHub Stats<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dblukutupluk%26theme%3Ddracula" alt="blukutupluk" /></a></p><p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dblukutupluk%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddracula" alt="blukutupluk" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dblukutupluk%26theme%3Ddracula" alt="blukutupluk" /></p>🚀 Latest ProjectsBerikut adalah beberapa proyek terbaru saya. Kunjungi repositori masing-masing untuk detail lebih lanjut![Nama Proyek 1] - Deskripsi singkat tentang proyek ini.Link ke Repo Proyek 1[Nama Proyek 2] - Deskripsi singkat tentang proyek ini.Link ke Repo Proyek 2[Nama Proyek 3] - Deskripsi singkat tentang proyek ini.Link ke Repo Proyek 3🎉 Fun Fact!<p align="center"><img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"></p>🤝 Connect with Me<p align="center"><a href="https://linkedin.com/in/nama-profil-linkedin-anda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://instagram.com/nama-profil-instagram-anda" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://twitter.com/nama-profil-twitter-anda" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a></p><p align="center">Terima kasih telah berkunjung! Jangan ragu untuk melihat repositori saya.</p>
+<h1 align="center">Hi 👋, I'm blukutupluk</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+<p align="center">
+<a href="https://github.com/blukutupluk">
+<img src="https://komarev.com/ghpvc/?username=blukutupluk&label=Profile%20views&color=0e75b6&style=flat" alt="blukutupluk" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Let's+build+something+amazing!&center=true&width=500&height=50&font=Inter&size=24">
+</p>
+
+🌐 About Me
+Halo! Saya blukutupluk, seorang pengembang frontend yang bersemangat dengan kecintaan pada pembuatan antarmuka pengguna yang intuitif dan menarik. Saya suka mengubah ide-ide kompleks menjadi pengalaman web yang mulus dan responsif. Berasal dari Indonesia, saya selalu mencari tantangan baru dan peluang untuk belajar serta berkolaborasi.
+
+🔭 Saya sedang mengerjakan proyek-proyek menarik yang berfokus pada pengembangan web modern.
+
+🌱 Saya saat ini sedang belajar teknologi frontend terbaru dan praktik terbaik.
+
+👯 Saya ingin berkolaborasi dalam proyek open-source atau aplikasi web inovatif.
+
+💬 Tanyakan kepada saya tentang React, JavaScript, CSS, atau hal-hal terkait frontend lainnya!
+
+📫 Cara menghubungi saya: [email Anda] atau melalui profil LinkedIn saya.
+
+⚡ Fakta menarik: Saya suka menjelajahi tren desain UI/UX terbaru.
+
+🛠️ My Tech Stack
+Berikut adalah beberapa teknologi dan alat yang sering saya gunakan:
+
+Frontend Development:
+
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+</p>
+
+Tools & Others:
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+</p>
+
+📊 GitHub Stats
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dblukutupluk%26theme%3Ddracula" alt="blukutupluk" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dblukutupluk%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddracula" alt="blukutupluk" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dblukutupluk%26theme%3Ddracula" alt="blukutupluk" />
+</p>
+
+🚀 Latest Projects
+Berikut adalah beberapa proyek terbaru saya. Kunjungi repositori masing-masing untuk detail lebih lanjut!
+
+[Nama Proyek 1] - Deskripsi singkat tentang proyek ini.
+
+Link ke Repo Proyek 1
+
+[Nama Proyek 2] - Deskripsi singkat tentang proyek ini.
+
+Link ke Repo Proyek 2
+
+[Nama Proyek 3] - Deskripsi singkat tentang proyek ini.
+
+Link ke Repo Proyek 3
+
+🎉 Fun Fact!
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200">
+</p>
+
+🤝 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/nama-profil-linkedin-anda" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://instagram.com/nama-profil-instagram-anda" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://twitter.com/nama-profil-twitter-anda" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+</p>
+
+<p align="center">
+Terima kasih telah berkunjung! Jangan ragu untuk melihat repositori saya.
+</p>
