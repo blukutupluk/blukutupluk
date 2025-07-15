@@ -14,40 +14,6 @@
 🌐 About Me
 Halo! Saya blukutupluk, seorang pengembang frontend yang bersemangat dengan kecintaan pada pembuatan antarmuka pengguna yang intuitif dan menarik. Saya suka mengubah ide-ide kompleks menjadi pengalaman web yang mulus dan responsif. Berasal dari Indonesia, saya selalu mencari tantangan baru dan peluang untuk belajar serta berkolaborasi.
 
-🔭 Saya sedang mengerjakan proyek-proyek menarik yang berfokus pada pengembangan web modern.
-
-🌱 Saya saat ini sedang belajar teknologi frontend terbaru dan praktik terbaik.
-
-👯 Saya ingin berkolaborasi dalam proyek open-source atau aplikasi web inovatif.
-
-💬 Tanyakan kepada saya tentang React, JavaScript, CSS, atau hal-hal terkait frontend lainnya!
-
-📫 Cara menghubungi saya: [email Anda] atau melalui profil LinkedIn saya.
-
-⚡ Fakta menarik: Saya suka menjelajahi tren desain UI/UX terbaru.
-
-🛠️ My Tech Stack
-Berikut adalah beberapa teknologi dan alat yang sering saya gunakan:
-
-Frontend Development:
-
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</p>
-
-Tools & Others:
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
 
 📊 GitHub Stats
 <p align="center">
