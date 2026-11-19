@@ -1,47 +1,101 @@
-<p><b>English</b> | <a href="./README_CN.md">简体中文</a></p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=180&section=header&text=GitHub%20Profile&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=A%2C%20modern%2C%20profile%20README&descAlignY=62&descSize=16" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=620&lines=Welcome+to+my+profile!;Let's+build+something+amazing!" />
-
+<!-- HEADER -->
 <p align="center">
-  <a href="https://github.com/blukutupluk">
-    <img src="https://github.com/blukutupluk.png" width="110" alt="blukutupluk" />
-  </a>
+  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Header%20Design.svg" alt="Gylan Salih Orbital" width="100%"/>
 </p>
 
+<!--------------- BADGES --------------->
 <p align="center">
-  <a href="https://github.com/blukutupluk/followers">
-    <img src="https://img.shields.io/github/followers/blukutupluk?style=for-the-badge" alt="GitHub followers" />
-  </a>
+  <!-- GitHub Followers -->
+  <a href="https://github.com/GylanSalih?tab=followers"><img alt="GitHub followers" title="Follow me on Github" src="https://img.shields.io/github/followers/blukutupluk?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
+  <!-- GitHub Stars -->
+  <a href="https://github.com/GylanSalih?tab=repositories"><img alt="GitHub stars" title="Stars" src="https://img.shields.io/github/stars/blukutupluk?color=FF0000&style=for-the-badge&labelColor=000000&logo=githubsponsors&logoColor=white"/></a>
+  <!-- Profile Views -->
+  <img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=blukutupluk&color=FF0000&style=for-the-badge&label=VIEWS"/>
+  <!-- WakaTime -->
+  <a href="https://wakatime.com/@blukutupluk"><img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&color=FF0000&labelColor=000000&logoColor=white"/></a>
+  <!-- Website -->
+  <a href="https://blukutupluk.com"><img alt="Website" title="Portfolio" src="https://img.shields.io/badge/-Gylansalih.com-000000?logo=codeigniter&logoColor=white&style=for-the-badge&labelColor=000000"/></a>
 </p>
 
-</div>
+<!--------------- ABOUT ME --------------->
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25"/> About Me
+**`Developer / Designer / Creator`**
 
----
+I'm really into web design and building websites that actually work for people. Soon, I'll be sharing a lot of my projects and design tools here as open source. I like learning as I go, improving step by step, and taking on new challenges to keep getting better.
 
-## 🌐 About Me
+<!--------------- REPOSITORIES --------------->
+<details>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> My Repositories</h2></summary>
 
-Halo! Saya **blukutupluk**, seorang pengembang frontend yang bersemangat dengan kecintaan pada pembuatan antarmuka pengguna yang intuitif dan menarik. Saya suka mengubah ide-ide kompleks menjadi pengalaman web yang mulus dan responsif. Berasal dari Indonesia, saya selalu mencari tantangan baru dan peluang untuk belajar serta berkolaborasi.
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/GylanSalih/NextJS-Portify">
+          <img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="100%" alt="Portify"/>
+        </a>
+        <br/>
+        <sub><b>Portify (In Progress)</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme">
+          <img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="100%" alt="RetroVerse"/>
+        </a>
+        <br/>
+        <sub><b>Retro Gaming Emulator Theme</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GylanSalih/GamePriceTracker">
+          <img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="100%" alt="GamePriceTracker"/>
+        </a>
+        <br/>
+        <sub><b>Ebay Gaming Scraper & Analyse</b></sub>
+      </td>
+    </tr>
+  </table>
+</details>
 
-## 📊 GitHub Stats
 
+<!--------------- STREAKS, STATS & ACTIVITY --------------->
+<details open>
+  <summary>
+    <h2>
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="30">
+      Streaks, Stats & Activity
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="30">
+    </h2>
+  </summary>
+
+  <p align="center">
+    <!-- GitHub Stats + Streak -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=blukutupluk&show_icons=true&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FF0000&text_color=FFFFFF&rank_icon=github"/>
+    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=blukutupluk&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000"/>
+    <!-- Activity Graph -->
+    <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=blukutupluk&theme=high-contrast&hide_border=true&area=true&area_color=FF0000&point=FF0000&line=FF0000"/>
+    <!-- Most Used Languages -->
+    <img width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blukutupluk&layout=compact&hide_border=true&card_width=805&bg_color=000000&text_color=FFFFFF&title_color=FF0000&langs_count=8"/>
+    <!-- WakaTime Stats -->
+    <img width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=blukutupluk&theme=midnight-purple&hide_border=true&layout=default&card_width=805&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/>
+  </p>
+</details>
+
+<!--------------- FAVORITE YOUTUBE VIDEOS --------------->
+
+<details open>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"/> My Favorite YouTube Videos</h2></summary>
+
+  <p align="center">
+    <!-- BEGIN YOUTUBE-CARDS -->
+    <a href="https://www.youtube.com/watch?v=ymuBowcODVU"><img src="https://ytcards.demolab.com/?id=ymuBowcODVU&title=3D+Rotation+Effect&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=100" alt="3D Rotation Effect"/></a>
+    <a href="https://www.youtube.com/watch?v=GXlckaGr0Eo"><img src="https://ytcards.demolab.com/?id=GXlckaGr0Eo&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Coding Pacman"/></a>
+    <a href="https://www.youtube.com/watch?v=FkowOdMjvYo&t=2353s"><img src="https://ytcards.demolab.com/?id=FkowOdMjvYo&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Three.js 3D Dev"/></a>
+    <a href="https://www.youtube.com/watch?v=yqaLSlPOUxM"><img src="https://ytcards.demolab.com/?id=yqaLSlPOUxM&title=Crazy+3D+Image+Slider&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=100" alt="Crazy 3D Image Slider"/></a>
+    <a href="https://www.youtube.com/watch?v=zc_kbyd98JY"><img src="https://ytcards.demolab.com/?id=noXW6EG_Fe8&title=CodeGrid+best+Tutorials&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="CodeGrid"/></a>
+    <a href="https://www.youtube.com/watch?v=zA9r5zTllx4"><img src="https://ytcards.demolab.com/?id=zA9r5zTllx4&title=Awwwards+Winning+Website&lang=en&timestamp=0&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Awwwards Winning Website"/></a>
+    <!-- END YOUTUBE-CARDS -->
+  </p>
+</details>
+
+<!--------------- FOOTER --------------->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blukutupluk&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&ring_color=bc8cff" width="500" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Footer%20Design.svg" width="100%"/>
 </p>
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/blukutupluk">
-    <img src="https://img.shields.io/github/blukutupluk?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  **Terima kasih telah berkunjung! Jangan ragu untuk melihat repositori saya.**
-</div>
