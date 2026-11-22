@@ -1,101 +1,92 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Header%20Design.svg" alt="Gylan Salih Orbital" width="100%"/>
-</p>
+<div align="center">
+  <img src="assets/mekanik-ceria.png" alt="Mekanik Ceria" width="130" height="130" style="border-radius:50%"/>
+</div>
 
-<!--------------- BADGES --------------->
-<p align="center">
-  <!-- GitHub Followers -->
-  <a href="https://github.com/GylanSalih?tab=followers"><img alt="GitHub followers" title="Follow me on Github" src="https://img.shields.io/github/followers/blukutupluk?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
-  <!-- GitHub Stars -->
-  <a href="https://github.com/GylanSalih?tab=repositories"><img alt="GitHub stars" title="Stars" src="https://img.shields.io/github/stars/blukutupluk?color=FF0000&style=for-the-badge&labelColor=000000&logo=githubsponsors&logoColor=white"/></a>
-  <!-- Profile Views -->
-  <img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=blukutupluk&color=FF0000&style=for-the-badge&label=VIEWS"/>
-  <!-- WakaTime -->
-  <a href="https://wakatime.com/@blukutupluk"><img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&color=FF0000&labelColor=000000&logoColor=white"/></a>
-  <!-- Website -->
-  <a href="https://blukutupluk.com"><img alt="Website" title="Portfolio" src="https://img.shields.io/badge/-Gylansalih.com-000000?logo=codeigniter&logoColor=white&style=for-the-badge&labelColor=000000"/></a>
-</p>
+<div align="center">
 
-<!--------------- ABOUT ME --------------->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25"/> About Me
-**`Developer / Designer / Creator`**
+# 👋 Halo, saya blukutupluk
 
-I'm really into web design and building websites that actually work for people. Soon, I'll be sharing a lot of my projects and design tools here as open source. I like learning as I go, improving step by step, and taking on new challenges to keep getting better.
+**🔧 Mekanik Ceria — bikin script, betulin Termux, dan nyalain gateway AI ☠️**
 
-<!--------------- REPOSITORIES --------------->
-<details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> My Repositories</h2></summary>
+![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+[![Followers](https://img.shields.io/github/followers/blukutupluk?color=FF6B00&style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/blukutupluk?tab=followers)
+[![Stars](https://img.shields.io/github/stars/blukutupluk?color=FF6B00&style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/blukutupluk?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=blukutupluk&color=FF6B00&style=for-the-badge&label=VIEWS)](https://github.com/blukutupluk)
 
-  <table align="center" border="0">
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/GylanSalih/NextJS-Portify">
-          <img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="100%" alt="Portify"/>
-        </a>
-        <br/>
-        <sub><b>Portify (In Progress)</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme">
-          <img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="100%" alt="RetroVerse"/>
-        </a>
-        <br/>
-        <sub><b>Retro Gaming Emulator Theme</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/GylanSalih/GamePriceTracker">
-          <img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="100%" alt="GamePriceTracker"/>
-        </a>
-        <br/>
-        <sub><b>Ebay Gaming Scraper & Analyse</b></sub>
-      </td>
-    </tr>
-  </table>
-</details>
+</div>
 
+---
 
-<!--------------- STREAKS, STATS & ACTIVITY --------------->
-<details open>
-  <summary>
-    <h2>
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="30">
-      Streaks, Stats & Activity
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="30">
-    </h2>
-  </summary>
+## 🧑‍💻 Tentang Saya
 
-  <p align="center">
-    <!-- GitHub Stats + Streak -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=blukutupluk&show_icons=true&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FF0000&text_color=FFFFFF&rank_icon=github"/>
-    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=blukutupluk&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000"/>
-    <!-- Activity Graph -->
-    <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=blukutupluk&theme=high-contrast&hide_border=true&area=true&area_color=FF0000&point=FF0000&line=FF0000"/>
-    <!-- Most Used Languages -->
-    <img width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blukutupluk&layout=compact&hide_border=true&card_width=805&bg_color=000000&text_color=FFFFFF&title_color=FF0000&langs_count=8"/>
-    <!-- WakaTime Stats -->
-    <img width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=blukutupluk&theme=midnight-purple&hide_border=true&layout=default&card_width=805&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/>
-  </p>
-</details>
+Saya **developer & tinkerer Termux** yang suka banget bikin alat-alat praktis buat dipakai sehari-hari. Dari downloader media, gateway AI multi-provider, sampai otomatisasi service yang nyala cuma dengan tap widget. 🛠️
 
-<!--------------- FAVORITE YOUTUBE VIDEOS --------------->
+Saya percaya: **script yang bagus itu bukan yang paling kompleks, tapi yang bikin kerjaan jadi gampang.**
+
+Saat ini fokus saya:
+- ⚡ Membangun tools Termux yang ringan & tahan Doze (wake lock + setsid)
+- 🤖 Merakit stack AI gateway: OpenCode + OpenRouter + FreeLLMAPI + Google + NVIDIA
+- 📦 Bikin pakem GitHub biar semua repo rapi & konsisten ☠️
+- 🎬 Eksplorasi skill agent (77+ skill aktif di Termux saya)
+
+---
+
+## 🚀 Proyek Unggulan
+
+| Repo | Deskripsi | Stack |
+|------|-----------|-------|
+| 🌌 **[downverse](https://github.com/blukutupluk/downverse)** | Downloader media all-in-one untuk Termux — 12 modul, yt-dlp + FFmpeg + proot | Bash · Python |
+| ☠️ **[termux-ai-gateway-setup](https://github.com/blukutupluk/termux-ai-gateway-setup)** | Stack AI gateway + auto-start 5 service & widget Termux | Node · Python · Bash |
+
+---
+
+## 📊 Statistik & Aktivitas
 
 <details open>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"/> My Favorite YouTube Videos</h2></summary>
+<summary><b>📈 Klik buat lihat statistik GitHub saya</b></summary>
 
-  <p align="center">
-    <!-- BEGIN YOUTUBE-CARDS -->
-    <a href="https://www.youtube.com/watch?v=ymuBowcODVU"><img src="https://ytcards.demolab.com/?id=ymuBowcODVU&title=3D+Rotation+Effect&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=100" alt="3D Rotation Effect"/></a>
-    <a href="https://www.youtube.com/watch?v=GXlckaGr0Eo"><img src="https://ytcards.demolab.com/?id=GXlckaGr0Eo&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Coding Pacman"/></a>
-    <a href="https://www.youtube.com/watch?v=FkowOdMjvYo&t=2353s"><img src="https://ytcards.demolab.com/?id=FkowOdMjvYo&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Three.js 3D Dev"/></a>
-    <a href="https://www.youtube.com/watch?v=yqaLSlPOUxM"><img src="https://ytcards.demolab.com/?id=yqaLSlPOUxM&title=Crazy+3D+Image+Slider&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=100" alt="Crazy 3D Image Slider"/></a>
-    <a href="https://www.youtube.com/watch?v=zc_kbyd98JY"><img src="https://ytcards.demolab.com/?id=noXW6EG_Fe8&title=CodeGrid+best+Tutorials&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="CodeGrid"/></a>
-    <a href="https://www.youtube.com/watch?v=zA9r5zTllx4"><img src="https://ytcards.demolab.com/?id=zA9r5zTllx4&title=Awwwards+Winning+Website&lang=en&timestamp=0&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Awwwards Winning Website"/></a>
-    <!-- END YOUTUBE-CARDS -->
-  </p>
+<p align="center">
+  <img width="430" src="https://github-readme-stats.vercel.app/api?username=blukutupluk&show_icons=true&hide_border=true&icon_color=FF6B00&ring_color=FF6B00&bg_color=0d1117&title_color=FF6B00&text_color=c9d1d9&rank_icon=github"/>
+  <img width="430" src="https://github-readme-streak-stats-eight.vercel.app/?user=blukutupluk&theme=highcontrast&currStreakNum=FF6B00&fire=FF6B00&card_height=205&currStreakLabel=FF6B00&ring=FF6B00&border=000000"/>
+</p>
+
+<p align="center">
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=blukutupluk&theme=high-contrast&hide_border=true&area=true&area_color=FF6B00&point=FF6B00&line=FF6B00"/>
+  <img width="850" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blukutupluk&layout=compact&hide_border=true&card_width=850&bg_color=0d1117&text_color=c9d1d9&title_color=FF6B00&langs_count=8"/>
+</p>
+
 </details>
 
-<!--------------- FOOTER --------------->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Footer%20Design.svg" width="100%"/>
-</p>
+---
+
+## 🛠️ Skill & Tools
+
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/-GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white)
+![Termux](https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=white)
+
+---
+
+## 🔗 Hubungkan
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blukutupluk)
+[![Website](https://img.shields.io/badge/Website-blukutupluk.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blukutupluk.com)
+[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blukutupluk@gmail.com)
+
+---
+
+<div align="center">
+
+**🔧 Mekanik Ceria Berjumpsuit Oranye** — *bikin script, betulin bug, nyalain gateway.* ☠️
+
+Dibuat dengan ☕ di Termux.
+
+</div>
