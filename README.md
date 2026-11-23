@@ -117,7 +117,7 @@ blukutupluk/
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blukutupluk)
 [![Website](https://img.shields.io/badge/Website-blukutupluk.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blukutupluk.com)
-[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blukutupluk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blukutupluk82@gmail.com)
 
 ---
 
