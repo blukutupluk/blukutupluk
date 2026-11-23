@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/mekanik-ceria.png" alt="Mekanik Ceria" width="140" height="140" style="border-radius:50%"/>
+  <img src="assets/mekanik-ceria.png" alt="Production Operator Shift" width="140" height="140" style="border-radius:50%"/>
 </div>
 
 <div align="center">
 
 # 👋 Halo, saya blukutupluk
 
-**🔧 Mekanik Ceria — bikin script, betulin Termux, dan nyalain gateway AI ☠️**
+**🏭 Production Operator Shift — jaga lini, betulin script, dan nyalain gateway AI ☠️**
 
 ![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 Tentang Saya
 
-Saya **developer & tinkerer Termux** yang suka bikin alat-alat praktis buat dipakai sehari-hari. Dari downloader media, gateway AI multi-provider, sampai otomatisasi service yang nyala cuma dengan tap widget. 🛠️
+Saya **production operator shift** sekaligus tinkerer Termux. Sambil jaga lini produksi, saya bikin alat-alat praktis buat dipakai sehari-hari — dari downloader media, gateway AI multi-provider, sampai otomatisasi service yang nyala cuma dengan tap widget. 🛠️
 
 > 💡 **Prinsip saya:** script yang bagus bukan yang paling kompleks — tapi yang bikin kerjaan jadi gampang, tahan Doze, dan bisa jalan lagi setelah HP di-restart.
 
@@ -123,7 +123,7 @@ blukutupluk/
 
 <div align="center">
 
-**🔧 Mekanik Ceria Berjumpsuit Oranye** — *bikin script, betulin bug, nyalain gateway.* ☠️
+**🏭 Production Operator Shift Berjumpsuit Oranye** — *jaga lini, bikin script, betulin bug, nyalain gateway.* ☠️
 
 Dibuat dengan ☕ di Termux.
 
