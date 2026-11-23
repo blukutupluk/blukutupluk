@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mekanik-ceria.png" alt="Mekanik Ceria" width="130" height="130" style="border-radius:50%"/>
+  <img src="assets/mekanik-ceria.png" alt="Mekanik Ceria" width="140" height="140" style="border-radius:50%"/>
 </div>
 
 <div align="center">
@@ -20,26 +20,62 @@
 
 ---
 
+## 🧭 Navigasi Cepat
+
+| 🧑‍💻 [Tentang](#tentang-saya) | ⚡ [Fokus](#sedang-fokus) | 🚀 [Proyek](#proyek-unggulan) | 🗂️ [Ekosistem](#ekosistem) | 📊 [Statistik](#statistik--aktivitas) | 🛠️ [Skill](#skill--tools) | 🔗 [Kontak](#hubungkan) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+---
+
 ## 🧑‍💻 Tentang Saya
 
-Saya **developer & tinkerer Termux** yang suka banget bikin alat-alat praktis buat dipakai sehari-hari. Dari downloader media, gateway AI multi-provider, sampai otomatisasi service yang nyala cuma dengan tap widget. 🛠️
+Saya **developer & tinkerer Termux** yang suka bikin alat-alat praktis buat dipakai sehari-hari. Dari downloader media, gateway AI multi-provider, sampai otomatisasi service yang nyala cuma dengan tap widget. 🛠️
 
-Saya percaya: **script yang bagus itu bukan yang paling kompleks, tapi yang bikin kerjaan jadi gampang.**
+> 💡 **Prinsip saya:** script yang bagus bukan yang paling kompleks — tapi yang bikin kerjaan jadi gampang, tahan Doze, dan bisa jalan lagi setelah HP di-restart.
 
-Saat ini fokus saya:
-- ⚡ Membangun tools Termux yang ringan & tahan Doze (wake lock + setsid)
-- 🤖 Merakit stack AI gateway: OpenCode + OpenRouter + FreeLLMAPI + Google + NVIDIA
-- 📦 Bikin pakem GitHub biar semua repo rapi & konsisten ☠️
-- 🎬 Eksplorasi skill agent (77+ skill aktif di Termux saya)
+Saya lagi sering main di persimpangan **Bash + Python + Node.js**, dengan sedikit bumbu **agent AI** buat nyelesain kerjaan repetitif. ☕
+
+---
+
+## ⚡ Sedang Fokus
+
+| Mode | Aktivitas |
+|---|---|
+| ⚡ **Termux Ringan** | Tools kecil, wake lock + `setsid`, tahan Doze |
+| 🤖 **AI Gateway** | OpenCode + OpenRouter + FreeLLMAPI + Google + NVIDIA |
+| 📦 **Pakem Repo** | README rapi, badge konsisten, struktur seragam ☠️ |
+| 🎬 **Agent Skill** | 77+ skill aktif, browser CDP, otomasi GitHub |
 
 ---
 
 ## 🚀 Proyek Unggulan
 
 | Repo | Deskripsi | Stack |
-|------|-----------|-------|
-| 🌌 **[downverse](https://github.com/blukutupluk/downverse)** | Downloader media all-in-one untuk Termux — 12 modul, yt-dlp + FFmpeg + proot | Bash · Python |
-| ☠️ **[termux-ai-gateway-setup](https://github.com/blukutupluk/termux-ai-gateway-setup)** | Stack AI gateway + auto-start 5 service & widget Termux | Node · Python · Bash |
+|---|---|---|
+| 🌌 **[downverse](https://github.com/blukutupluk/downverse)** | Downloader media all-in-one untuk Termux — 12 modul, yt-dlp + FFmpeg + proot | `Bash` · `Python` |
+| ☠️ **[termux-ai-gateway-setup](https://github.com/blukutupluk/termux-ai-gateway-setup)** | Stack AI gateway + auto-start 5 service & widget Termux | `Node` · `Python` · `Bash` |
+| 🧭 **[cdp-chrome-setup](https://github.com/blukutupluk/cdp-chrome-setup)** | Panduan Chrome CDP + `agent-browser` + `browse` MCP untuk agen AI | `PowerShell` · `CDP` |
+| 📦 **[termux-workbench](https://github.com/blukutupluk/termux-workbench)** | Kumpulan utilitas harian Termux biar kerja makin cepat | `Bash` · `Python` |
+
+> 🔥 **Paling sering dipakai:** `downverse` buat media, `termux-ai-gateway-setup` buat otak AI.
+
+---
+
+## 🗂️ Ekosistem Pakem
+
+Semua repo saya dijaga dengan satu gaya: **center header + emoji + badge `for-the-badge` + tabel + blok kode + `---`**. ☠️
+
+```
+blukutupluk/
+├── 🌌 downverse              → media downloader
+├── ☠️ termux-ai-gateway-setup → AI gateway & widget
+├── 🧭 cdp-chrome-setup        → browser automation
+├── 📦 termux-workbench        → utilitas harian
+├── 🎵 tiktok-skills          → skill agen
+└── 🧑‍💻 blukutupluk           → README profil ini
+```
+
+🧩 **Prinsip pakem:** rapi di mata, gampang di-scan, nggak perlu dibuka untuk tahu isinya.
 
 ---
 
@@ -72,6 +108,8 @@ Saat ini fokus saya:
 ![Termux](https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=white)
+![CDP](https://img.shields.io/badge/-CDP-202124?style=for-the-badge&logo=googlechrome&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-FF6B00?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
